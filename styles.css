@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 120px;
+    background-image: url(https://images.pexels.com/photos/1591447/pexels-photo-1591447.jpeg?cs=srgb&dl=pexels-guillaume-meurice-1591447.jpg&fm=jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white; /* Set text color to white */
+    text-align: center;
+  }
+  
+  h1 {
+    text-align: middle;
+    font-size: 45px;
+    margin-bottom: 20px;
+  }
+  
+  .section {
+    margin-bottom: 20px;
+  }
+  
+  .section h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  
+  .section .sub-heading {
+    font-style: italic;
+    margin-bottom: 10px;
+  }
+  
+  .section p {
+    margin-bottom: 5px;
+  }
+  
+  ul {
+    margin-left: 20px;
+    padding-left: 15px;
+  }
+  
+  ul li {
+    margin-bottom: 10px;
+  }
+  
+  strong {
+    font-weight: bold; /* Adjusted to bold instead of white */
+  }
+  
+  a {
+    color: #337ab7;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .section img {
+    max-width: 200px; /* Adjusted image width */
+    height: 200px;
+    border-radius: 50%; /* Added border-radius to make the image circular */
+  }
+  
